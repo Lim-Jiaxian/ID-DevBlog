@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color:aliceblue;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: left;
+    display: block;
+}
+p.inset 
+{
+    border-style: inset;
+    border-color:aquamarine;
+}
+p.outset 
+{
+    border-style: outset;
+    border-color: aquamarine;
+}
