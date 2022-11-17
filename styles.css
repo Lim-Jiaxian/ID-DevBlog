@@ -1,9 +1,10 @@
 body{
     margin: 0;
-    background-color:aliceblue;
+    background-color:black;
 }
 h1{
     text-align: center;
+    color: aliceblue;
 }
 p{
     text-align: left;
@@ -19,3 +20,18 @@ p.outset
     border-style: outset;
     border-color: aquamarine;
 }
+p{
+    font-size: 25px;
+    color: aliceblue;
+}
+h2{
+    font-size: 22px;
+    color: aliceblue;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
