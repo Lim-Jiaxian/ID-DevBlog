@@ -92,6 +92,30 @@ h2{
     padding: 20px 50px;
     box-sizing: border-box;
 }
+.week8{
+    flex-basis: 30%;
+    background-color: lightseagreen;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    padding: 20px 50px;
+    box-sizing: border-box;
+}
+.week9{
+    flex-basis: 30%;
+    background-color:burlywood;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    padding: 20px 50px;
+    box-sizing: border-box;
+}
+.week10{
+    flex-basis: 30%;
+    background-color:darkslateblue;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    padding: 20px 50px;
+    box-sizing: border-box;
+}
 
 
 
